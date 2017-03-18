@@ -26,7 +26,7 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#0275d8"
+              "color": "#ffffff"
             },
             ".navbar-brand": {
               "font-family": "'Slabo 27px', serif",
@@ -36,6 +36,9 @@
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "23px"
+            },
+            ".nav-link SPAN": {
+              "font-size": "46px"
             }
           },
           "_anchor": "ext_menu-8",
@@ -65,7 +68,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-setting3 mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px;\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px; color: rgb(255, 255, 255);\"></span></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
         }
       ]
     },
@@ -83,7 +86,7 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#0275d8"
+              "color": "#ffffff"
             },
             ".navbar-brand": {
               "font-family": "'Slabo 27px', serif",
@@ -93,6 +96,9 @@
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "23px"
+            },
+            ".nav-link SPAN": {
+              "font-size": "46px"
             }
           },
           "_anchor": "ext_menu-9",
@@ -122,7 +128,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-setting3 mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px;\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px; color: rgb(255, 255, 255);\"></span></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
         }
       ]
     },
@@ -140,7 +146,7 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#0275d8"
+              "color": "#ffffff"
             },
             ".navbar-brand": {
               "font-family": "'Slabo 27px', serif",
@@ -150,6 +156,9 @@
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "23px"
+            },
+            ".nav-link SPAN": {
+              "font-size": "46px"
             }
           },
           "_anchor": "ext_menu-a",
@@ -179,7 +188,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-setting3 mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px;\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px; color: rgb(255, 255, 255);\"></span></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
         }
       ]
     },
@@ -371,7 +380,7 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#0275d8"
+              "color": "#ffffff"
             },
             ".navbar-brand": {
               "font-family": "'Slabo 27px', serif",
@@ -381,6 +390,9 @@
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "23px"
+            },
+            ".nav-link SPAN": {
+              "font-size": "46px"
             }
           },
           "_anchor": "ext_menu-q",
@@ -412,7 +424,7 @@
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">About</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-setting3 mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px;\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px; color: rgb(255, 255, 255);\"></span></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
         },
         {
           "alias": "purity/components",
@@ -957,6 +969,9 @@
               "font-family": "'Open Sans Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
               "font-size": "23px"
+            },
+            ".nav-link SPAN": {
+              "font-size": "46px"
             }
           },
           "_anchor": "ext_menu-0",
@@ -972,7 +987,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
@@ -982,13 +996,19 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": "50",
+              "color": "#ffffff",
+              "active": true,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-white-outline btn-white\" data-app-selector=\".navbar-nav .btn\" href=\"https://mobirise.com\">Download</a></li>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-setting3 mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-star mbr-iconfont mbr-iconfont-btn-parent\" style=\"color: rgb(255, 255, 255);\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-setting3 mbr-iconfont mbr-iconfont-btn-parent\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-question mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px;\"></span></a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn-parent\" style=\"font-size: 40px; color: rgb(255, 255, 255);\"></span></a></li>  <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\"></a></li>"
         },
         {
           "alias": "purity/components",
