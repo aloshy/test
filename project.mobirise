@@ -40,10 +40,10 @@
           },
           "_anchor": "ext_menu-8",
           "_params": {
-            "hamburgerColor": "#0275d8",
+            "hamburgerColor": "#ffffff",
             "sticky": true,
             "transparent": true,
-            "color": "#0275d8",
+            "color": "#ffffff",
             "collapsed": false,
             "logo": true,
             "showBrand": true,
@@ -97,10 +97,10 @@
           },
           "_anchor": "ext_menu-9",
           "_params": {
-            "hamburgerColor": "#0275d8",
+            "hamburgerColor": "#ffffff",
             "sticky": true,
             "transparent": true,
-            "color": "#0275d8",
+            "color": "#ffffff",
             "collapsed": false,
             "logo": true,
             "showBrand": true,
@@ -154,10 +154,10 @@
           },
           "_anchor": "ext_menu-a",
           "_params": {
-            "hamburgerColor": "#0275d8",
+            "hamburgerColor": "#ffffff",
             "sticky": true,
             "transparent": true,
-            "color": "#0275d8",
+            "color": "#ffffff",
             "collapsed": false,
             "logo": true,
             "showBrand": true,
@@ -385,10 +385,10 @@
           },
           "_anchor": "ext_menu-q",
           "_params": {
-            "hamburgerColor": "#0275d8",
+            "hamburgerColor": "#ffffff",
             "sticky": true,
             "transparent": true,
-            "color": "#0275d8",
+            "color": "#ffffff",
             "collapsed": false,
             "logo": true,
             "showBrand": true,
@@ -947,7 +947,7 @@
           "_name": "ext.menu",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#0275d8"
+              "color": "#ffffff"
             },
             ".navbar-brand": {
               "font-family": "'Slabo 27px', serif",
@@ -961,10 +961,10 @@
           },
           "_anchor": "ext_menu-0",
           "_params": {
-            "hamburgerColor": "#0275d8",
+            "hamburgerColor": "#ffffff",
             "sticky": true,
             "transparent": true,
-            "color": "#0275d8",
+            "color": "#ffffff",
             "collapsed": false,
             "logo": true,
             "showBrand": true,
