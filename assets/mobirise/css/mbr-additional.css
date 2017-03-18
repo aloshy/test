@@ -1,18 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
-#msg-box3-b .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-b .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#ext_menu-0 .navbar-toggler {
-  color: #000;
-}
-#ext_menu-0 .navbar-brand {
-  font-family: 'Slabo 27px', serif;
-}
-
 #ext_menu-8 .navbar-toggler {
   color: #000;
 }
@@ -31,5 +18,35 @@
   color: #000;
 }
 #ext_menu-a .navbar-brand {
+  font-family: 'Slabo 27px', serif;
+}
+
+#header1-n H1 {
+  color: #000000;
+  font-size: 46px;
+}
+#msg-box3-p .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-p .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#ext_menu-q .navbar-toggler {
+  color: #000;
+}
+#ext_menu-q .navbar-brand {
+  font-family: 'Slabo 27px', serif;
+}
+
+#msg-box3-b .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-b .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#ext_menu-0 .navbar-toggler {
+  color: #0275d8;
+}
+#ext_menu-0 .navbar-brand {
   font-family: 'Slabo 27px', serif;
 }
