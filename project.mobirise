@@ -44,15 +44,15 @@
             "sticky": true,
             "transparent": true,
             "color": "#0275d8",
-            "collapsed": true,
-            "logo": false,
+            "collapsed": false,
+            "logo": true,
             "showBrand": true,
-            "showButtons": true
+            "showButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -101,15 +101,15 @@
             "sticky": true,
             "transparent": true,
             "color": "#0275d8",
-            "collapsed": true,
-            "logo": false,
+            "collapsed": false,
+            "logo": true,
             "showBrand": true,
-            "showButtons": true
+            "showButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -158,15 +158,15 @@
             "sticky": true,
             "transparent": true,
             "color": "#0275d8",
-            "collapsed": true,
-            "logo": false,
+            "collapsed": false,
+            "logo": true,
             "showBrand": true,
-            "showButtons": true
+            "showButtons": false
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -389,10 +389,10 @@
             "sticky": true,
             "transparent": true,
             "color": "#0275d8",
-            "collapsed": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": true
+            "showButtons": false
           },
           "logo": {
             "image": {
@@ -783,7 +783,7 @@
           "_name": "header1",
           "_anchor": "header1-10",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
             "bgColor": "#fff8e0",
@@ -965,10 +965,10 @@
             "sticky": true,
             "transparent": true,
             "color": "#0275d8",
-            "collapsed": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": true,
-            "showButtons": true
+            "showButtons": false
           },
           "logo": {
             "image": {
