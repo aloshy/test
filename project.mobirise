@@ -34,7 +34,7 @@
             "sticky": true,
             "transparent": true,
             "color": "#fff",
-            "collapsed": true,
+            "collapsed": false,
             "logo": true,
             "showBrand": true,
             "showButtons": false
@@ -135,7 +135,7 @@
           },
           "title": "Modern Styles",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"44\" data-toolbar=\"-mbrBtnMove\">See All Templates</a>"
         }
       ]
