@@ -30,7 +30,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "hamburgerColor": "#000",
+            "hamburgerColor": "#ffffff",
             "sticky": true,
             "transparent": true,
             "color": "#fff",
@@ -64,7 +64,7 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"44\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"44\">About</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link text-white\" data-app-selector=\".nav-link\" href=\"44\">Contact</a></li>",
           "_styles": {
             ".navbar-toggler": {
-              "color": "#000"
+              "color": "#ffffff"
             }
           }
         },
