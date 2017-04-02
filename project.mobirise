@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -74,17 +74,11 @@
             "Theme"
           ],
           "_name": "header1",
-          "_styles": {
-            "H1": {
-              "color": "#000000",
-              "font-size": "46px"
-            }
-          },
-          "_anchor": "header1-3",
+          "_anchor": "header1-4",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1250.jpg",
             "bgColor": "#fff8e0",
             "bgColorRadio": false,
             "bgVideo": {
@@ -93,46 +87,16 @@
             "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
-            "overlayColor": "#abdbf2",
+            "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
             "showButtons": true,
             "showArrow": true
           },
-          "title": "<b>WEB OF DESIGN.</b><br>",
+          "title": "COMING SOON ..<br><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"www\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"www\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
-        },
-        {
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
-            "bgColor": "#fff8e0",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": true
-          },
-          "title": "",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"4444444444\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Get Startet&nbsp;<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"44\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"A\" data-toolbar=\"-mbrBtnMove\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"A\" data-toolbar=\"-mbrBtnMove\">Learn More</a>"
         },
         {
           "_styles": {
@@ -154,7 +118,7 @@
             "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#FFF8E0",
             "bgColorRadio": true,
             "bgVideo": {
