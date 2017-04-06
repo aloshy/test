@@ -38,8 +38,8 @@
             "hamburgerColor": "#ffffff",
             "sticky": true,
             "transparent": true,
-            "color": "#fff",
-            "collapsed": false,
+            "color": "#ffffff",
+            "collapsed": true,
             "logo": true,
             "showBrand": true,
             "showButtons": false
@@ -76,7 +76,7 @@
           "_name": "header1",
           "_styles": {
             "H1": {
-              "color": "#fff8e0"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-4",
